@@ -18,7 +18,7 @@ public class Ex3 {
                 res = res * fatorial;
                 fatorial--;
             }
-            System.out.println("A fotario de " + num + " é " + res);
+            System.out.println("A fotarial de " + num + " é " + res);
         }
     }
 }
